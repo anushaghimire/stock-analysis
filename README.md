@@ -1,7 +1,8 @@
+
 # Overview of Project
-## The purpose and background are well defined (2 pt).
+## The purpose and background are well defined.
 ## Results
-### The analysis is well described with screenshots and code (4 pt).
+### The analysis is well described with screenshots and code 
 ````
 1a) Create a ticker Index
     
@@ -64,13 +65,14 @@ Next i
 
 
 ## Summary
-#### There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+#### The advantages and disadvantages of refactoring code in general.
 #### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
 
 
 
 
 
-<img width="400" alt="2017" src="https://user-images.githubusercontent.com/85364095/125178973-b7394c00-e19e-11eb-8b3a-874b88fa7edc.png">
+
+
 # stock-analysis
 Module 2 Challenge
