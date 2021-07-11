@@ -1,8 +1,24 @@
 
 # Overview of Project
 ## The purpose and background are well defined.
-## Results
-### The analysis is well described with screenshots and code 
+# Results
+## The analysis is well described with screenshots and code 
+### Comparison between 2017 and 2018 stock performance
+<img width="337" alt="All Stocks_2017" src="https://user-images.githubusercontent.com/85364095/125206912-66793000-e23e-11eb-91fb-10e0092bb86d.png">  <img width="337" alt="All Stocks_2018" src="https://user-images.githubusercontent.com/85364095/125206914-68db8a00-e23e-11eb-84a4-96f940f6ed9a.png">
+
+### comparison between Execution times of the original script vs refactored script
+#### Run times for the original script
+<img width="300" alt="originalcode_VBA_Challenge_2017" src="https://user-images.githubusercontent.com/85364095/125207000-e7382c00-e23e-11eb-8d23-9aba77fff79b.png"> <img width="300" alt="originalcode_VBA_Challenge_2018" src="https://user-images.githubusercontent.com/85364095/125207011-f1f2c100-e23e-11eb-9db4-2d36ddbb3a31.png">
+#### Run time for the refactored script
+<img width="300" alt="VBA_Challange_2018" src="https://user-images.githubusercontent.com/85364095/125207100-4a29c300-e23f-11eb-989a-4a534fef60ea.png">  <img width="300" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/85364095/125207107-557cee80-e23f-11eb-98bc-9b807eefdd94.png">
+
+
+
+
+
+
+
+
 ````
 1a) Create a ticker Index
     
