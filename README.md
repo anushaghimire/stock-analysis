@@ -82,7 +82,7 @@ Next i
 
 ## Summary
 #### The advantages and disadvantages of refactoring code in general.
-#### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+#### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script.
 
 
 
